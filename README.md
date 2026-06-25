@@ -1,1 +1,3 @@
-# Chinool-Music-Store-Analysis
+# Chinook Music Store Analysis | SQL & Excel
+
+Analyzed customer, sales, and product data from the Chinook Music Store database using SQL and Excel. Performed customer segmentation, retention analysis, churn identification, sales trend analysis, and product performance evaluation using joins, CTEs, aggregate functions, and window functions. Identified high-value customers, long-term loyal customers, churned customers, top-selling genres, highest revenue-generating artists, and key geographic markets. Delivered actionable recommendations focused on customer retention, targeted marketing, and revenue optimization.
